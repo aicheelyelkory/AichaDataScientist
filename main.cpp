@@ -1,6 +1,6 @@
 #include <iostream>
-#include "CalculOfPmt.h"
-#include "CalculOfPv.h"
+#include "CalculOfPMT.h"
+#include "CalculOfPV.h"
 #include "CalculOfPeriods.h"
 int main() {
   //  std::cout << "Hello, World!" << std::endl;
