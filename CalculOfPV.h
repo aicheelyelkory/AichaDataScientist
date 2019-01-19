@@ -1,5 +1,5 @@
-#ifndef UNTITLED7_CALCULUSOFPV_H
-#define UNTITLED7_CALCULUSOFPV_H
+#ifndef UNTITLED7_CALCULOFPV_H
+#define UNTITLED7_CALCULOFPV_H
 #include <iostream>
 #include<iostream>
 #include<cmath>
@@ -37,4 +37,4 @@ void CalculOfPV(){
     cout << PV;
 
 }
-#endif //UNTITLED7_CALCULUSOFPV_H
+#endif //UNTITLED7_CALCULOFPV_H
