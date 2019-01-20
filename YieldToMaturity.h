@@ -8,7 +8,7 @@ using namespace std;
 
 double f(double PMT, double PV, int n, double r) {
     double temp;
-    temp = PV - PMT*(r*(1+(1/pow(1+r, n)-1)));
+    temp = PMT/(r*(1+(1/pow(1+r, n)-1))) - PV;
     return temp;
 }
 
